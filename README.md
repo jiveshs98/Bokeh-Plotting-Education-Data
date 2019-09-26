@@ -1,2 +1,5 @@
 # Bokeh-Plotting-Education-Data
 To make a graph that shows the percentage of women who have received a bachelor's degree in **Engineering** over the years in USA. The graph has been constructed using the Bokeh library.
+<br></br>
+
+The graph will be saved in the **women.html** file and the snapshot is given below.
